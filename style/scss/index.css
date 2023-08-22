@@ -55,10 +55,10 @@ body {
   border-radius: 10px;
 }
 .qr-container__text {
-  margin-top: 30px;
+  margin-top: 20px;
   text-align: center;
 }
-.qr-container__text h2 {
+.qr-container__text h1 {
   font-size: 24px;
 }
 .qr-container__text p {
